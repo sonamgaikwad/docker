@@ -8,3 +8,5 @@ WORKDIR /opt/apache-tomcat-8.5.100/bin/
 ENV Name="Jarvis_Home"
 EXPOSE 8080
 CMD ["./catalina.sh", "run"]
+
+
